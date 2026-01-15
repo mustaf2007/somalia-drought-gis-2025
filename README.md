@@ -37,17 +37,10 @@ This system supports:
 • Climate risk research
 
 ---
-
 ## ⚙️ Technology Stack
-
 • Python
 • GeoPandas
 • Folium
 • UN OCHA COD Boundaries
 • Natural Earth GIS layers
 
-
-
-
-
-Once committed, send me your Pages link and I’ll check it for you 👍
