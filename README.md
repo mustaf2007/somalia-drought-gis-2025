@@ -24,7 +24,6 @@ It identifies drought severity patterns and population stress zones to support h
 | Interactive Tooltips      | District & region details on hover                     |
 | Administrative Boundaries | Official UN COD level-2 boundaries                     |
 
----
 
 ## 🎯 Why This Matters
 
@@ -36,11 +35,10 @@ This system supports:
 • Food security planning
 • Climate risk research
 
----
 ## ⚙️ Technology Stack
 • Python
 • GeoPandas
 • Folium
-• UN OCHA COD Boundaries
+• UN OCHA COD Boundaries 
 • Natural Earth GIS layers
 
